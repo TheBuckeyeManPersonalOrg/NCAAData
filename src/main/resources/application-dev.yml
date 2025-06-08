@@ -1,2 +1,6 @@
 data:
   localsavepoint: "~/Desktop"
+
+
+api:
+  url: https://data.ncaa.com/casablanca/scoreboard/football/fbs/2024/P/scoreboard.json
